@@ -11,7 +11,7 @@ If you are interested in joining our team, you can apply __only__ if:
   - using ChatGPT or any other LLM coding model
 
 
-If you match all above requirements, please send your resume and cover letter to [jobs@jobrunr.io](mailto:jobs@jobrunr.io).
+If you match all above requirements, please send your resume and cover letter to [ronald@jobrunr.io](mailto:ronald@jobrunr.io).
 
 The interview process will be as follows:
 - a technical coding challenge for 30 minutes with a similar difficulty as the exercise here in our offices (without the possibility to use internet)
