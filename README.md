@@ -10,7 +10,7 @@ If you are interested in joining our team, you can apply __only__ if:
   - any IDE LLM autocomplete features (you can disable it in Intellij under Settings > Editor > General > Inline Completion) nor 
   - using ChatGPT or any other LLM coding model
 
-If you match all above requirements, please send your fork with the solution, your resume and cover letter to [ronald@jobrunr.io](mailto:ronald@jobrunr.io).
+If you match all above requirements, please send your fork with the solution(and the time it took to solve it), your resume and cover letter to [ronald@jobrunr.io](mailto:ronald@jobrunr.io).
 
 The interview process at our office will be as follows:
 - a technical coding challenge for 30 minutes with a similar difficulty as the exercise here in our offices (without the possibility to use internet)
@@ -26,4 +26,4 @@ Your mission, should you choose to accept it, is to implement a bowling game com
 - A strike is when the player knocks down all 10 pins on his first roll. The frame is then completed with a single roll. The bonus for that frame is the value of the next two rolls.
 - In the tenth frame a player who rolls a spare or strike is allowed to roll the extra balls to complete the frame. However no more than three balls can be rolled in tenth frame.
 
-We wish you the best of luck!
+Your 1 hour time starts now. We wish you the best of luck!
